@@ -15,7 +15,7 @@ public class PersonWithAge {
     }
 
     String getName() {
-        return name;
+        return  name;
     }
 
     int getAge() {
